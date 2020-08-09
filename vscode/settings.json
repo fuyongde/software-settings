@@ -1,0 +1,21 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "vscode-icons",
+    "python.languageServer": "Microsoft",
+    "java.codeGeneration.generateComments": true,
+    "java.codeGeneration.hashCodeEquals.useInstanceof": true,
+    "eslint.nodePath": "D:\\devtools\\node",
+    "eslint.format.enable": true,
+    "editor.formatOnSave": true,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 120000,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
